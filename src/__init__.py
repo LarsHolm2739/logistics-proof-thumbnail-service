@@ -1,0 +1,1 @@
+"""Shipment thumbnail example package."""
